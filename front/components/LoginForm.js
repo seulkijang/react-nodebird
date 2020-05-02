@@ -1,15 +1,8 @@
-<<<<<<< HEAD
 import React, { useCallback } from "react";
 import { Button, Form, Input } from "antd";
 import Link from "next/link";
 import { useInput } from "../pages/signup";
 // todo : util 폴더로 옮기기
-=======
-import React, { useState, useCallback } from "react";
-import { Button, Form, Input } from "antd";
-import Link from "next/link";
-import { useInput } from "../pages/signup";
->>>>>>> 52847910c8de65fcbfdd413066fcb2bc42fce16a
 
 const LoginForm = () => {
   const [id, onChangeId] = useInput("");

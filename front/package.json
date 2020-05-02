@@ -12,7 +12,11 @@
   "author": "Seulki",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "antd": "^4.2.0",
+=======
+    "antd": "^4.1.5",
+>>>>>>> 52847910c8de65fcbfdd413066fcb2bc42fce16a
     "next": "^9.3.5",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
